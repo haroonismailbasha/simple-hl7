@@ -1,0 +1,21 @@
+
+
+
+for PHP
+https://packagist.org/packages/msonowal/simple-hl7
+composer require msonowal/simple-hl7
+
+https://github.com/senaranya/HL7/tree/master
+
+NPM based
+https://github.com/hitgeek/simple-hl7
+
+https://hl7messageparser.azurewebsites.net/Parse/Samples
+
+Only Needed values
+https://www.eclinicalworks.com/wp-content/uploads/2023/09/eCW-HL7-Lab-Orders-Specifications-Aug-2022.pdf
+
+Complete Link
+C:/Users/waterfordx2/Downloads/HL7-2.5.1-Guide.pdf
+
+
